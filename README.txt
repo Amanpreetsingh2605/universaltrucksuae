@@ -1,0 +1,1 @@
+Replace this folder content with your logo image named logo.jpg
